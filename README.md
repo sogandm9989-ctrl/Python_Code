@@ -1,1 +1,1 @@
-i learned "if", "if not", "elif" and "else" in Homework_1 and Homework_2
+Hi guys, today i did totals, products, total_seconds and remainings
