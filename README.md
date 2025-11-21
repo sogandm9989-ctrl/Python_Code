@@ -1,1 +1,1 @@
-Hi guys, today i did totals, products, total_seconds and remainings
+Hi guys, today i made a code that if a dice rolls to number 6, the dice will reroll itself
